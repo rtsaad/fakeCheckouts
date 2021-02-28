@@ -1,0 +1,10 @@
+{
+    "checkouts":[
+	{
+	    "id":1,
+	    "user_id":"digaots@gmail.com",
+	    "quote_id": 1,
+	    "coins": 10
+	}
+    ]
+}

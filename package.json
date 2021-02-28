@@ -1,0 +1,11 @@
+{
+  "name": "fakevrtown",
+  "version": "1.0.0",
+  "description": "Fake api",
+  "main": "index.js",
+  "scripts": {
+    "exec": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
