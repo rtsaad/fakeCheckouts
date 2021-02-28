@@ -13,7 +13,7 @@ Store checkouts with the following payload:
 	"quote_id": 1,          //Shopping Cart id
 	"coins": 10             //Number of coins purchased
 }
-´´´
+```
 
 # Access Link
 
