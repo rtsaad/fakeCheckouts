@@ -14,3 +14,7 @@ Store checkouts with the following payload:
 	"coins": 10             //Number of coins purchased
 }
 """
+
+# Access Link
+
+Server is available at https://my-json-server.typicode.com/rtsaad/fakeCheckouts.
