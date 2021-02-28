@@ -3,8 +3,8 @@
 	{
 	    "id":1,
 	    "user_id":"joe.doe@gmail.com",
-	    "quote_id": 1,
-	    "coins": 10
+	    "order_id": 1,
+	    "coins_amount": 10
 	}
     ]
 }
